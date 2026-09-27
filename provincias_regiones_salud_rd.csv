@@ -1,0 +1,33 @@
+COD_PROV,PROVINCIA,NOMBRE,COD_REGION,REGION,NOMBRE_REGION
+01,DISTRITO NACIONAL,Distrito Nacional,0,Región 0,Metropolitana
+02,AZUA,Azua,VI,Región VI,El Valle
+03,BAORUCO,Baoruco,IV,Región IV,Enriquillo
+04,BARAHONA,Barahona,IV,Región IV,Enriquillo
+05,DAJABÓN,Dajabón,VII,Región VII,Cibao Occidental
+06,DUARTE,Duarte,III,Región III,Nordeste
+07,ELÍAS PIÑA,Elías Piña,VI,Región VI,El Valle
+08,EL SEIBO,El Seibo,V,Región V,Este
+09,ESPAILLAT,Espaillat,II,Región II,Norcentral
+10,INDEPENDENCIA,Independencia,IV,Región IV,Enriquillo
+11,LA ALTAGRACIA,La Altagracia,V,Región V,Este
+12,LA ROMANA,La Romana,V,Región V,Este
+13,LA VEGA,La Vega,VIII,Región VIII,Cibao Central
+14,MARÍA TRINIDAD SÁNCHEZ,María Trinidad Sánchez,III,Región III,Nordeste
+15,MONTE CRISTI,Monte Cristi,VII,Región VII,Cibao Occidental
+16,PEDERNALES,Pedernales,IV,Región IV,Enriquillo
+17,PERAVIA,Peravia,I,Región I,Valdesia
+18,PUERTO PLATA,Puerto Plata,II,Región II,Norcentral
+19,HERMANAS MIRABAL,Hermanas Mirabal,III,Región III,Nordeste
+20,SAMANÁ,Samaná,III,Región III,Nordeste
+21,SAN CRISTÓBAL,San Cristóbal,I,Región I,Valdesia
+22,SAN JUAN,San Juan,VI,Región VI,El Valle
+23,SAN PEDRO DE MACORÍS,San Pedro de Macorís,V,Región V,Este
+24,SÁNCHEZ RAMÍREZ,Sánchez Ramírez,VIII,Región VIII,Cibao Central
+25,SANTIAGO,Santiago,II,Región II,Norcentral
+26,SANTIAGO RODRÍGUEZ,Santiago Rodríguez,VII,Región VII,Cibao Occidental
+27,VALVERDE,Valverde,VII,Región VII,Cibao Occidental
+28,MONSEÑOR NOUEL,Monseñor Nouel,VIII,Región VIII,Cibao Central
+29,MONTE PLATA,Monte Plata,0,Región 0,Metropolitana
+30,HATO MAYOR,Hato Mayor,V,Región V,Este
+31,SAN JOSÉ DE OCOA,San José de Ocoa,I,Región I,Valdesia
+32,SANTO DOMINGO,Santo Domingo,0,Región 0,Metropolitana
